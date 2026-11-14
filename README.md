@@ -17,7 +17,7 @@ Alongside my studies, I work as a voice actor at Sonatik, where I've gained prof
 - **Visualization:** Power BI, Matplotlib, Seaborn
 - **Development Tools:** Jupyter Notebook, VS Code
 
-## 📂 Projects I'm Preparing to Share
+## 📂 Featured Projects
 
 ### 🎓 Graduate Employability Prediction
 Compared Logistic Regression and Random Forest models using 2,982 student records. Applied statistical testing, SHAP, and generalization analysis to evaluate model reliability.
